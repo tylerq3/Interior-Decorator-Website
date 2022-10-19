@@ -1,0 +1,27 @@
+.my-class{
+padding: inherit;
+border: blue;
+margin: auto;
+box-sizing: border-box;
+}
+
+.Kayia {
+padding: 30%;
+border: red;
+margin: 30%;
+box-sizing: border-box;
+}
+
+.Parsley {
+padding: 50%;
+border: green;
+margin: 65%;
+box-sizing: border-box;
+}
+
+.Bentley {
+padding: 40%;
+border: yellow;
+margin: 45%;
+box-sizing: border-box;
+}
